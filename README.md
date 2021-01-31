@@ -10,4 +10,4 @@ Please contact: letrungthanhtbt@gmail.com
 
 Reference:
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "A fast randomized adaptive CP decomposition for streaming tensors". Int. Conf. Acoust. Speech  Signal Process. (ICASSP), 2021 
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "A fast randomized adaptive CP decomposition for streaming tensors". Int. Conf. Acoust. Speech  Signal Process. (ICASSP), 2021 (to appear).
