@@ -12,6 +12,9 @@ State-of-the-art algorithms for comparison are:
 + OLCP (2016): S. Zhou et al. “Accelerating online CP decompositions for higher order tensors,”  ACM Int. Conf. Knowl. Discover. Data Min., 2016
 + OLSTEC (2017): H. Kasai, “Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations,” Neurocomput., 2017
 
+
+Backup: https://drive.google.com/drive/folders/1KQ3BO00mPR00RLFg0YvBNUnHvEwIl5z2?usp=sharing
+
 Please contact: letrungthanhtbt@gmail.com
 
 Reference:
