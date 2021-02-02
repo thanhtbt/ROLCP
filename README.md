@@ -1,4 +1,4 @@
-# ROLCP: A FAST RANDOMIZED ADAPTIVE CP DECOMPOSITION FOR STREAMING TENSORS
+# ROLCP: A  fast randomized adaptive CP decomposition for streaming tensors
 
 
 Our MATLAB code requires the Tensor Toolbox http://www.tensortoolbox.org/
@@ -15,7 +15,7 @@ State-of-the-art algorithms for comparison are:
 
 Backup: https://drive.google.com/drive/folders/1KQ3BO00mPR00RLFg0YvBNUnHvEwIl5z2?usp=sharing
 
-Please contact: letrungthanhtbt@gmail.com
+Contact: letrungthanhtbt@gmail.com
 
 Reference:
 
