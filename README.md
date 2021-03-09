@@ -14,8 +14,17 @@ Quick Start: Run the file DEMO.m
 + OLCP (2016): S. Zhou et al. “Accelerating online CP decompositions for higher order tensors,”  ACM Int. Conf. Knowl. Discover. Data Min., 2016
 + OLSTEC (2017): H. Kasai, “Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations,” Neurocomput., 2017
 
+## Some Results
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/26319211/110488183-87920e80-80ee-11eb-9c66-42d212d07382.jpg" width="350" height='250' />
+  <img src="https://user-images.githubusercontent.com/26319211/110486987-7399dd00-80ed-11eb-8163-33b9edcef365.PNG" width="300" height='250' /> 
+</p>
+
+
 ## Reference
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "A fast randomized adaptive CP decomposition for streaming tensors". Int. Conf. Acoust. Speech  Signal Process. (ICASSP), 2021 (to appear).
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "A fast randomized adaptive CP decomposition for streaming tensors". IEEE Int. Conf. Acoust. Speech  Signal Process. (IEEE ICASSP), 2021.
+
