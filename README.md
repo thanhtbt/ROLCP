@@ -5,7 +5,7 @@ In this work, we introduce a fast adaptive algorithm for CANDECOMP/PARAFAC decom
 Our MATLAB code requires the Tensor Toolbox http://www.tensortoolbox.org/
 
 ## DEMO 
-Quick Start: Run the file DEMO.m
+Quick Start: Just run the file DEMO.m
 
 ## State-of-the-art algorithms for comparison
 
@@ -26,5 +26,5 @@ Quick Start: Run the file DEMO.m
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "A fast randomized adaptive CP decomposition for streaming tensors". IEEE Int. Conf. Acoust. Speech  Signal Process. (IEEE ICASSP), 2021.
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. *"A fast randomized adaptive CP decomposition for streaming tensors"*. **IEEE Int. Conf. Acoust. Speech  Signal Process. (IEEE ICASSP)**, 2021.
 
