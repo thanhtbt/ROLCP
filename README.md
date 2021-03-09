@@ -9,10 +9,10 @@ Quick Start: Just run the file DEMO.m
 
 ## State-of-the-art algorithms for comparison
 
-+ PARAFAC_SDT, PARAFAC_RLST (2009): D. Nion et al. “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” IEEE Trans. Signal Process.,  2009.
-+ SOAP (2017): N.V. Dung et al. “Second-order optimization based adaptive PARAFAC decomposition of three-way tensors,” Digit. Signal Process., 2017. 
-+ OLCP (2016): S. Zhou et al. “Accelerating online CP decompositions for higher order tensors,”  ACM Int. Conf. Knowl. Discover. Data Min., 2016
-+ OLSTEC (2017): H. Kasai, “Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations,” Neurocomput., 2017
++ PARAFAC_SDT, PARAFAC_RLST (2009): D. Nion et al. “[Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor](https://ieeexplore.ieee.org/document/4799120/),” IEEE Trans. Signal Process.,  2009.
++ SOAP (2017): N.V. Dung et al. “[Second-order optimization based adaptive PARAFAC decomposition of three-way tensors](https://www.sciencedirect.com/science/article/pii/S105120041730009X),” Digit. Signal Process., 2017. 
++ OLCP (2016): S. Zhou et al. “[Accelerating online CP decompositions for higher order tensors](https://dl.acm.org/doi/10.1145/2939672.2939763),”  ACM Int. Conf. Knowl. Discover. Data Min., 2016
++ OLSTEC (2017): H. Kasai, “[Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations](https://www.sciencedirect.com/science/article/pii/S0925231218313584),” Neurocomput., 2017
 
 ## Some Results
 
