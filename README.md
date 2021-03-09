@@ -2,9 +2,8 @@
 In this work, we introduce a fast adaptive algorithm for CANDECOMP/PARAFAC decomposition of streaming three-way tensors using randomized sketching techniques. By leveraging randomized least-squares regression and approximating matrix multiplication, we propose an efficient first-order estimator to minimize an exponentially weighted recursive leastsquares cost function. Our algorithm is fast, requiring a low computational complexity and memory storage.
 
 ## Requirement 
-Our MATLAB code requires the Tensor Toolbox http://www.tensortoolbox.org/
-
-## DEMO 
+Our MATLAB code requires the Tensor Toolbox http://www.tensortoolbox.org/ (which is already attached to this repository.) 
+## Demo
 Quick Start: Just run the file DEMO.m
 
 ## State-of-the-art algorithms for comparison
