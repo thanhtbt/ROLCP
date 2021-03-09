@@ -17,6 +17,8 @@ Quick Start: Just run the file DEMO.m
 
 ## Some Results
 
+Running time and estimation accuracy of adaptive CP algorithms
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/26319211/110488183-87920e80-80ee-11eb-9c66-42d212d07382.jpg" width="350" height='250' />
   <img src="https://user-images.githubusercontent.com/26319211/110486987-7399dd00-80ed-11eb-8163-33b9edcef365.PNG" width="300" height='250' /> 
