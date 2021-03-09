@@ -26,5 +26,5 @@ Quick Start: Just run the file DEMO.m
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. [*"A fast randomized adaptive CP decomposition for streaming tensors"*](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view). **IEEE Int. Conf. Acoust. Speech  Signal Process. (IEEE ICASSP)**, 2021.
+[1] L.T. Thanh, K. Abed-Meraim, N.L. Trung, A. Hafiance. "[*A fast randomized adaptive CP decomposition for streaming tensors*](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view)". **IEEE Int. Conf. Acoust. Speech  Signal Process. (IEEE ICASSP)**, 2021.
 
