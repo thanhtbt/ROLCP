@@ -15,7 +15,7 @@ run_path;
 n_exp     = 10;
 std_brt   = 1e-3;
 
-tensor_dim = [20 30 1000];
+tensor_dim = [100 150 1000];
 R          = 5;
 I          = tensor_dim(1);
 J          = tensor_dim(2);
